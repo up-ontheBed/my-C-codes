@@ -1,4 +1,4 @@
-# include<stdio.h>
+# include<stdio.h> 
 # include<string.h>
 # define NUMBER 9
 //也许可以从棋盘入手，把棋盘所有位置设为0，a为1，b为2，然后判断数组棋盘
